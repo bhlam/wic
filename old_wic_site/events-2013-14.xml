@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!-- 
+	1. Order events by date.
+	2. Expired events will be listed in past events.
+	3. Beware special characters! (<, >, &, etc) Enclose them in <![CDATA[  ]]> or replace with HTMl entities.
+-->
+<events>
+
+<event>
+	<expire>20140117</expire>
+	<date>Fri Jan 17, 4PM</date>
+	<location>EBU-I (Jacobs Hall) Room 4309</location>
+	<title>General Body Meeting (GBM)</title>
+	<desc><![CDATA[ Find out what's happening in WIC for spring quarter! ]]></desc>
+	<link></link>
+</event>
+
+<event>
+	<expire>20131205</expire>
+	<date>Fri Dec 5, 4PM</date>
+	<location>EBU-I (Jacobs Hall) Room 4309</location>
+	<title>General Body Meeting (GBM)</title>
+	<desc><![CDATA[ <p>
+	Take a break from studying for finals and come hang out with us at our last fall quarter GBM! We'll be decorating cookies (or just eating them, that's cool too) and talking about upcoming events we have in mind for next quarter. Hope to see you there!</p>
+
+<p>We're providing the cookies, icing, and sprinkles so feel to bring anything else to help create your cookie masterpieces. :) </p>]]></desc>
+	<link></link>
+</event>
+
+
+<event>
+	<expire>20131123</expire>
+	<date>Sat Nov 23, 3PM-7:30PM</date>
+	<location>CSE B230 and B240</location>
+	<title>Beginner's Programming Competition</title>
+	<desc><![CDATA[ <p>The Beginner's Programming Competition is designed specifically with undergrads who have not taken any upper division courses in mind. So if you love to code and want to participate in a programming competition this is a great opportunity for you! <a href="/competition.html">Sign up here</a></p>]]></desc>
+	<link></link>
+</event>
+
+
+<event>
+	<expire>20131113</expire>
+	<date>Wed Nov 13, 7PM-9PM</date>
+	<location>CSE Building, Third Floor by the elevators</location>
+	<title>Interview Prep Night</title>
+	<desc><![CDATA[ <p>Brush up on those technical interviewing skills. You'll have the option to choose what topic (i.e. data structures, puzzles) and the way you want the interview conducted (white board, Google docs, paper). It'll be casual so don't stress!</p> <a href="https://www.facebook.com/events/477454699035530/?ref=4">Facebook link</a></p>]]></desc>
+	<link></link>
+</event>
+
+
+
+<event>
+	<expire>20131108</expire>
+	<date>Fri Nov 8, 4PM</date>
+	<location>EBU-I (Jacobs Hall) Room 4309</location>
+	<title>General Body Meeting (GBM)</title>
+	<desc><![CDATA[ <p>We'll be discussing more of our upcoming events, such as our Beginner's Programming Competition and Interview Prep Night, sharing our experiences at the Grace Hopper Celebration, and having an Ice Cream Social! Take a break from studying, grab some ice cream, and have a great time with new friends and old! </p>]]></desc>
+	<link></link>
+</event>
+
+
+<event>
+	<expire>20131021</expire>
+	<date>Mon Oct 21, 8PM-9:30PM</date>
+	<location>WLH 2207</location>
+	<title>"Girl Rising" Screening</title>
+	<desc><![CDATA[ <p>"If you stop me, there will be other girls who rise up and take my place. I am change."</p>
+<p>Directed by Academy Award-nominated director Richard E. Robbins, the film is about the power of education to CHANGE a GIRL-- and the WORLD. Join us for a FREE SCREENING of Girl Rising (featuring Anne Hathaway, Salma Hayek, Selena Gomez, Meryl Streep, Alicia Keys, Kerry Washington and more!) AND FREE SNACKS! Check out the trailer <a href="http://www.youtube.com/watch?v=BJsvklXhYaE" target="_blank">here</a>.</p>
+
+<p><a href="http://10x10act.org/" target="_blank">10x10 act</a> | <a href="http://girlrising.com/" target="_blank">Girl Rising</a></p>]]></desc>
+	<link></link>
+</event>
+
+
+
+<event>
+	<expire>20131017</expire>
+	<date>Mon Oct 14, 7PM-8:30PM</date>
+	<location>Jacobs Hall, Henry Booker Room 2512</location>
+	<title>Salesforce Tech Talk</title>
+	<desc><![CDATA[ <p>Come join WIC and leading cloud provider SALESFORCE for a tech talk on what Salesforce is all about! Dinner will be provided!</p>
+
+<p>Stay after to chat with Salesforce engineers about what it's like to work at a Forbes' ranked 19th best company to work for or ask about the awesome projects they're working on that make Salesforce America's Most Innovate Company!
+</p>]]></desc>
+	<link></link>
+</event>
+
+<event>
+	<expire>20131014</expire>
+	<date>Mon Oct 14, Noon-2pm</date>
+	<location>Qualcomm Room (1st Floor), Jacobs Hall</location>
+	<title>Cisco Tech Talk: "Backpack to Briefcase: Working as a Woman in Technology"</title>
+	<desc><![CDATA[ <p> Come join Cisco as we invite some of our female engineers to share their stories and lessons-learned while navigating through their careers. There will be plenty of time for open discussion and networking. Lunch will be provided.</p>]]></desc>
+	<link></link>
+</event>
+
+<event>
+	<expire>20131011</expire>
+	<date>Fri Oct 11, 4:30-6pm</date>
+	<location>EBU-I (Jacobs Hall) Room 4309</location>
+	<title>General Body Meeting (GBM)</title>
+	<desc><![CDATA[ <p>We will be discussing our upcoming events, such as our tech talks with Cisco and Salesforce and our Hackathon with Teradata. We'll also be discussing how you can get more experience for your resume by joining our Python and upcoming VGDC projects, as well as our open positions on WIC Board.</p>]]></desc>
+	<link></link>
+</event>
+
+
+<event>
+	<expire>99999999</expire>
+	<date>Weekly</date>
+	<location>Cups, by the CSE Building behind the Bear</location>
+	<title>WIC Lunches</title>
+	<desc><![CDATA[<p>Come see what your fellow WIC 
+			members have been up to and give all that 
+			studying and hard work a break! (Bring your own lunch or purchase from Cups)
+			</p>
+			<p>Dates and times (Fall 2013 Quarter):</p>
+			<ul>
+			<li>Monday, October 14th  @ 12:00pm - 1:00pm</li>
+			<li>Thursday, October 24th @ 1:00pm - 2:00pm</li>
+			<li>Wednesday, October 30th @ 12:00pm - 1:00pm</li>
+			<li>Tuesday, November 5th @ 12:00pm - 1:00pm</li>
+			<li>Thursday, November 14th @ 1:00pm - 2:00pm</li>
+			<li>Tuesday, November 26th @ 11:00am -12:00pm</li>
+			</ul>]]></desc>
+	<link></link>
+</event>
+
+
+</events>
+		
